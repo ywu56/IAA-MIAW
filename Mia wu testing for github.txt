@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Mia wu testing for github change 1; need to publish 
+=======
+Mia wu testing for github 
+nicee
+>>>>>>> 9f3ce3c5ad7cba5d41eb65cb2e7ba3a9a4800e85
